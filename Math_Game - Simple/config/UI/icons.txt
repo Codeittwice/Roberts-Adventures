@@ -1,3 +1,0 @@
-Hero.bmp
-Weapon1.bmp
-Weapon2.bmp

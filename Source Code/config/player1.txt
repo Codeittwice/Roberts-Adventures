@@ -1,0 +1,5 @@
+Img: player.bmp
+Img: player-idle.bmp
+Img: player-happy.bmp
+Img: player-angry.bmp
+Player: 735 153
